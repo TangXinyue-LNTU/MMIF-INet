@@ -10,8 +10,5 @@ To test the MMIF-INet, run the following command:
 ```bash
 python test.py
 ```
-## The code refers to: 
-https://github.com/TomTomTommi/HiNet  
-https://github.com/DZSYUNNAN/medicalimagefusion  
 
 
