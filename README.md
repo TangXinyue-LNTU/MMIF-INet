@@ -1,12 +1,13 @@
-# [MMIF-INet: Multimodal Medical Image Fusion by Invertible Network](https://www.sciencedirect.com/science/article/abs/pii/S1566253524004445?via%3Dihub)
+# MMIF-INet：基于可逆网络的多模态医学图像融合
 
-## Overview
-MMIF-INet is a novel invertible fusion network that directly accepts multi-channel images as inputs. It performs feature fusion in a process-reversible manner, ensuring the information of the source image pairs is preserved intact.
+## 概述
+MMIF-INet 是一种新型可逆融合网络，可直接接受多通道图像作为输入。它以过程可逆的方式执行特征融合，确保源图像对的信息完整保留。
 
-<mark>Please pay attention! Our method is only suitable for the fusion of color images and grayscale images.</mark>
 
-## To Test
-To test the MMIF-INet, run the following command:
+<mark>请注意！我们的方法仅适用于彩色图像和灰度图像的融合。</mark>
+
+## 测试
+要测试 MMIF-INet，请运行以下命令：
 ```bash
 python test.py
 ```
